@@ -19,4 +19,4 @@ https://stackoverflow.com/questions/47928735/react-scripts-is-not-recognized-as-
 
 https://exerror.com/fix-the-upstream-dependency-conflict-installing-npm-packages/
 
-## if you have error with real-scripts, use `npm install react-scripts --force` command on terminal
+## if you have error with real-scripts, use `npm install react-scripts --force` command on terminal 

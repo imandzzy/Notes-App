@@ -1,4 +1,4 @@
-# Meme-Generator
+# Notes-App
 Quick start:
 
 ```

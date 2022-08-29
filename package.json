@@ -1,0 +1,36 @@
+{
+  "name": "project",
+  "dependencies": {
+    "nanoid": "3.1.32",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-mde": "11.5.0",
+    "react-scripts": "^5.0.1",
+    "react-split": "2.0.14",
+    "showdown": "1.9.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*",
+    "webpack": "^5.74.0"
+  },
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w",
+    "start": "react-scripts --openssl-legacy-provider start"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
